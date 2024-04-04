@@ -1,6 +1,6 @@
 # Systemy-ekspertowe
 Systemy ekspertowe - Uniwersytet Śląski IV Semestr.  
-Realizacja rozbudowanego programu zaliczeniowego z przedmiotu Systemy ekspertowe, realizowanego na IV semestrze na Uniwersytecie Śląskim.
+Realizacja programu zaliczeniowego z przedmiotu Systemy ekspertowe, realizowanego na IV semestrze na Uniwersytecie Śląskim.
 
 Opis projektu:
 Zadanie polega na stworzeniu systemu eksploracyjnego danych, który będzie zdolny do generowania reguł klasyfikacyjnych. Te reguły mają na celu identyfikację kandydatów kwalifikujących się do otrzymania kredytu na podstawie historii wcześniej przyznanych kredytów. Przewiduje wykorzystanie systemu decyzyjnego. 
