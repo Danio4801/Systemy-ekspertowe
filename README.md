@@ -1,6 +1,6 @@
 # Systemy-ekspertowe
 Systemy ekspertowe - Uniwersytet Śląski IV Semestr.  
-! PRACE PRZEWIDZIANE NA DRUGA POLOWE WRZESNAI 2024 (SE ZAJECIA DODATKOWE, KOLKO)
+!!! PRACE PRZEWIDZIANE NA DRUGA POLOWE WRZESNIA 2024 (SE ZAJECIA DODATKOWE, KOLKO NAUKOWE)
 Realizacja programu zaliczeniowego z przedmiotu Systemy ekspertowe, realizowanego na IV semestrze na Uniwersytecie Śląskim.
 
 Opis projektu:
